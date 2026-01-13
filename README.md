@@ -26,9 +26,10 @@ Tools & Technologies
 1. **Clone the repository**
    
    git clone https://github.com/samikshauniyal94-Analyst/Customer_behaviour_Analysis.git
+
    cd Customer_behaviour_Analysis
    ```
-2. **Open Customer_Shopping_Behavior_Analysis.ipynb notebook**
+3. **Open Customer_Behaviour.ipynb notebook**
 
     This file contains:
 
@@ -39,28 +40,29 @@ Tools & Technologies
 
       - Connection to SQL Database
   
-3. **Load the data from Python notebook into MySQL/PostgreSQL/MS SQL Server**
+4. **Load the data from Python notebook into MySQL
 
       - Create a database in SQL
 
       - Run Python code to load data into SQL database
   
-      - Open **customer_behavior_sql_queries.sql**
+      - Open **Customer_behavior.sql**
   
       - Answer Business Questions using SQL Queries 
       
-4. **Connect the SQL Database to Power BI**
+5. **Connect the SQL Database to Power BI**
 
-      - Open **customer_behavior_dashboard.pbix**
+      - Open **customerbehaviour_Powerbi.pbix**
    
       - Create interactive dashboard in Power BI
   
-6. **Create Project Report and Presentation**
+6. **Create Project Report 
 
       - Create project report
    
      
   
+
 
 
 
